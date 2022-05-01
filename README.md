@@ -16,7 +16,7 @@ Technologies used: Pandas Dataframes, visualizations with Altair, PySpark for AL
 <br>
 The other datasets will be used for Exploratory Data Analysis.
 
-<div class="h3">Let's start with the following approaches: </div><br>
+<div class="h3">Data Analysis: </div><br>
 
 * Rating Frequency.
 
@@ -24,4 +24,17 @@ The other datasets will be used for Exploratory Data Analysis.
 
 * World cloud with most common words.
 
-Let's start plotting an Histogram to see the rating distribution.
+<div class="h3">Modeling: </div><br>
+ 
+* Importing Pyspark libraries.
+
+* Creating schema with fields "userID", "movieID", "rating", "timestamp".
+
+* Splitting data into taining and testing.
+
+* Model fitting and evaluating MAE.
+
+* Generate user based recommendation system.
+
+* Generate item based recommendation system.  
+
