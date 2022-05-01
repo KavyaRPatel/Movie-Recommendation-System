@@ -38,3 +38,12 @@ The other datasets will be used for Exploratory Data Analysis.
 
 * Generate item based recommendation system.  
 
+Final Results:
+
+User based Recommendation system:
+
+![Screenshot from 2022-05-01 10-35-46](https://user-images.githubusercontent.com/71372587/166133028-54d6180d-7a09-412f-842b-8c84d59e9f8a.png)          
+
+Item based Recommendation System:
+
+![Screenshot from 2022-05-01 10-35-58](https://user-images.githubusercontent.com/71372587/166133039-4866a151-3423-4793-9346-df16746c6538.png)
