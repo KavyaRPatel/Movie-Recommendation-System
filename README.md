@@ -7,9 +7,9 @@
 
 # **Steps to run the code:**
 
-* Open Jupyter notebook
+* Open Jupyter notebook or Kaggle notebook.
 
-* Run the code
+* Run the code.
 
 # **Introduction:**
 
