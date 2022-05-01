@@ -5,8 +5,7 @@
 2. Kavya Patel AU1940144
 3. Kairavi Shah AU1940177
 
-
-<div class="h2"><center>Introduction</center></div>
+# **Introduction:**
 
 Recommendation systems having been much present right now, there are so many approaches to make and improve they.<br>
 We can find they in online shops, music streaming and video streaming services.<br>
@@ -16,7 +15,7 @@ Technologies used: Pandas Dataframes, visualizations with Altair, PySpark for AL
 <br>
 The other datasets will be used for Exploratory Data Analysis.
 
-<div class="h3">Data Analysis: </div><br>
+# **Data Analysis:**
 
 * Rating Frequency.
 
@@ -24,7 +23,7 @@ The other datasets will be used for Exploratory Data Analysis.
 
 * World cloud with most common words.
 
-<div class="h3">Modeling: </div><br>
+# **Modeling:**
  
 * Importing libraries from Pyspark.
 
@@ -38,7 +37,7 @@ The other datasets will be used for Exploratory Data Analysis.
 
 * Generate item based recommendation system.  
 
-Final Results:
+# **Final Results:**
 
 User based Recommendation system:
 
