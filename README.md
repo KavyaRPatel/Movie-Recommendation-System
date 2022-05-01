@@ -26,7 +26,7 @@ The other datasets will be used for Exploratory Data Analysis.
 
 <div class="h3">Modeling: </div><br>
  
-* Importing Pyspark libraries.
+* Importing libraries from Pyspark.
 
 * Creating schema with fields "userID", "movieID", "rating", "timestamp".
 
