@@ -5,6 +5,12 @@
 2. Kavya Patel AU1940144
 3. Kairavi Shah AU1940177
 
+# **Steps to run the code:**
+
+* Open Jupyter notebook
+
+* Run the code
+
 # **Introduction:**
 
 Recommendation systems having been much present right now, there are so many approaches to make and improve they.<br>
